@@ -3,7 +3,7 @@
 
 - 🔭 He trabajado como **desarrollador de webs con Wordpress**
 
-- 🌱 Actualmente estoy aprendiendo **lenguajes como Java, HTML, Ensamblador...**
+- 🌱 Actualmente estoy aprendiendo **lenguajes como Java y HTML.**
 
 - 📫 How to reach me **adriferre2015f@iescastelar.com**
 
