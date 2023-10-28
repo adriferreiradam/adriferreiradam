@@ -5,7 +5,7 @@
 
 - 🌱 Actualmente estoy aprendiendo **lenguajes como Java y HTML.**
 
-- 📫 How to reach me **adriferre2015f@iescastelar.com**
+- 📫 Contáctame en  **adriferre2015f@iescastelar.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
