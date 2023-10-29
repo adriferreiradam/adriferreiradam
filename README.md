@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, me llamo Adrián</h1>
-<h3 align="center">Soy un estudiante de Desarrollo de Aplicaciones Multiplataforma y Técnico en Sistemas Microinformáticos y redes</h3>
+<h3 align="center">Soy estudiante de Desarrollo de Aplicaciones Multiplataforma y Técnico en Sistemas Microinformáticos y redes</h3>
 
 - 🌱 Actualmente estoy aprendiendo **lenguajes como Java y HTML.**
 
