@@ -1,13 +1,13 @@
 <h1 align="center">Hola 👋, me llamo Adrián</h1>
 <h3 align="center">Soy un estudiante de Desarrollo de Aplicaciones Multiplataforma y graduado en Sistemas Microinformáticos y redes</h3>
 
-- 🔭 He trabajado como **desarrollador de webs con Wordpress**
-
 - 🌱 Actualmente estoy aprendiendo **lenguajes como Java y HTML.**
 
-- 📫 Contáctame en  **adriferre2015f@iescastelar.com**
+- 🔭 He trabajado como **desarrollador de webs con Wordpress**
 
-<h3 align="left">Mi perfil de Linkedin:</h3>
+- 📫 **adriferre2015f@iescastelar.com**
+
+<h3 align="left">Mi perfil de LinkedIn:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/adri%c3%a1n-ferreira-rodr%c3%adguez-45b658277/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/adri%c3%a1n-ferreira-rodr%c3%adguez-45b658277/" height="30" width="40" /></a>
 </p>
